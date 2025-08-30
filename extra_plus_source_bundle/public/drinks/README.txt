@@ -1,0 +1,1 @@
+ใส่รูปสินค้าไว้ที่นี่ เช่น original.jpg, berry.jpg, herbal.jpg
